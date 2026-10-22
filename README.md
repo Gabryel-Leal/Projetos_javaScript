@@ -6,7 +6,7 @@
 />
 
 
-📚 Projetos em JavaScript
+# 📚 Projetos em JavaScript
 
 Repositório dedicado ao desenvolvimento de projetos práticos em JavaScript, com o objetivo de consolidar conhecimentos, aprimorar a lógica de programação e evoluir gradualmente no desenvolvimento de software.
 
