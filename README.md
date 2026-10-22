@@ -5,7 +5,6 @@
   src="./file_000000002db8820ebd76064b0614c10a.png" 
 />
 
----
 
 📚 Projetos em JavaScript
 
