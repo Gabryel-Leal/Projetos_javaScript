@@ -1,4 +1,19 @@
-# Este é um projeto de uma calculadora em JavaScript 
+# Calculadora Interativa em JavaScript — Operações Aritméticas
+
+# Desenvolvimento de uma calculadora interativa em JavaScript, estruturada para executar operações 
+aritméticas básicas: adição, subtração, multiplicação e divisão. O projeto foi desenvolvido com funções 
+independentes para cada operação, promovendo a organização do código, a reutilização de funcionalidades 
+e a separação de responsabilidades.
+
+# A aplicação utiliza estruturas condicionais ("if/else if/else") para identificar a operação selecionada 
+pelo usuário, conversão de valores numéricos com "Number()" e interação por meio dos métodos "prompt()" e 
+"alert()". Também implementa uma validação específica para impedir divisões por zero e uma mensagem de 
+retorno para operações inválidas.
+
+# Tecnologias e conceitos aplicados: JavaScript, funções, parâmetros e valores de retorno, estruturas 
+condicionais, conversão de tipos, entrada e saída de dados e tratamento de condições de erro.
+
+---
 
 function somar(a, b) {
     return a + b;
